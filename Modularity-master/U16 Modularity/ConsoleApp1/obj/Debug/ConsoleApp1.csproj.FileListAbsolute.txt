@@ -1,0 +1,2 @@
+C:\Users\1374879\Desktop\Modularity-master\U16 Modularity\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\1374879\Desktop\Modularity-master\U16 Modularity\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
